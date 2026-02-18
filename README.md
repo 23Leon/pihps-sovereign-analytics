@@ -1,128 +1,133 @@
-🌍 PIHPS Sovereign Macro Risk Intelligence Platform
+# 🌍 PIHPS Sovereign Macro Risk Intelligence Platform
 
-🧠 Machine Learning–Driven Macro Risk & Inflation Monitoring Engine
-Built using Indonesian strategic food price data (PIHPS – Bank Indonesia)
+> 🧠 Machine Learning–Driven Macro Risk & Inflation Monitoring Engine  
+> Powered by Indonesian Strategic Food Price Data (PIHPS – Bank Indonesia)
 
-📖 Overview
+---
 
-This project is a Sovereign-Level Macro Risk Intelligence System designed to monitor, forecast, and analyze regional food price dynamics across Indonesia.
+## 📖 Overview
 
-It transforms granular regional price data into:
+This project is a **Sovereign-Level Macro Risk Intelligence System** designed to monitor, forecast, and analyze regional food price dynamics across Indonesia.
 
-📊 Regional risk indicators
+The platform transforms granular regional price data into actionable macroeconomic intelligence, including:
 
-📈 Inflation projections
+- 📊 Regional Risk Indicators  
+- 📈 Inflation Projections  
+- 🔥 National Systemic Risk Signals  
+- 🚨 Early Warning Alerts  
 
-🔥 National systemic risk signals
+It simulates how a central bank or policy institution monitors macroeconomic stability using applied data science, machine learning, and macro aggregation techniques.
 
-🚨 Early warning alerts
+---
 
-The platform simulates how a central bank or policy institution monitors macroeconomic stability using applied data science and machine learning.
+## 🎯 Project Objectives
 
-🎯 Project Objectives
+- Develop a scalable Python-based data analytics pipeline  
+- Build regional ML forecasting models (Province & District level)  
+- Implement a forward-looking Early Warning System  
+- Construct a Sovereign Macro Risk Index  
+- Deliver interactive macro intelligence dashboards using Streamlit  
 
-Implement a scalable Python-based data analytics pipeline
+---
 
-Build regional ML forecasting models (Province & District level)
+# 🧠 Core Intelligence Features
 
-Develop a forward-looking Early Warning System
+---
 
-Construct a Sovereign Macro Risk Index
-
-Deliver interactive intelligence dashboards using Streamlit
-
-🧠 Core Intelligence Features
-1️⃣ Regional Forecast Engine
+## 1️⃣ Regional Forecast Engine
 
 Machine learning–based forecasting per region:
 
-Ensemble Model:
+### 🔹 Ensemble Model
+- Linear Regression  
+- Random Forest  
 
-Linear Regression
+### 🔹 Forecasting Capability
+- 7-Day forward price projection  
+- Province-level modeling  
+- Kabupaten/Kota-level modeling  
 
-Random Forest
+### 🔹 Model Evaluation
+- MAE (Mean Absolute Error)  
+- MAPE (Mean Absolute Percentage Error)  
 
-7-Day forward price projection
+📌 **Purpose:** Detect localized price pressure before it escalates into systemic risk.
 
-Model performance evaluation:
+---
 
-MAE
-
-MAPE
-
-Coverage:
-
-✅ Province level
-
-✅ Kabupaten/Kota level
-
-📌 Purpose: Detect localized price pressure before it becomes systemic.
-
-2️⃣ Regional Risk Classification
+## 2️⃣ Regional Risk Classification
 
 Each region is dynamically classified based on:
 
-Forecasted price change
+- Forecasted price change  
+- Historical volatility  
+- Momentum pressure  
 
-Historical volatility
+### Risk Levels:
+- 🔴 **HIGH RISK**  
+- 🟠 **MEDIUM RISK**  
+- 🟢 **LOW RISK**  
 
-Momentum pressure
+📌 **Purpose:** Identify vulnerable regions in near real-time.
 
-Risk Levels:
+---
 
-🔴 HIGH RISK
+## 3️⃣ National Risk Ranking
 
-🟠 MEDIUM RISK
+- Automated scanning across all regions  
+- Ranking by projected inflation pressure  
+- Top 10 high-risk regions dashboard  
 
-🟢 LOW RISK
+📌 **Purpose:** Highlight geographic concentration of macro stress.
 
-📌 Purpose: Identify vulnerable regions in real-time.
+---
 
-3️⃣ National Risk Ranking
+## 4️⃣ National Macro Risk Engine
 
-Automated scanning of all regions
+Computes sovereign-level macro pressure indicators:
 
-Ranking by projected inflation pressure
+- 📊 National Volatility Index  
+- 🔁 Contagion Effect Index  
+- 📈 Multi-Commodity Pressure Index  
+- 🧮 Composite Sovereign Macro Risk Score  
 
-Top 10 high-risk regions dashboard
+📌 **Purpose:** Translate regional instability into measurable national systemic risk.
 
-📌 Purpose: Highlight concentration of macro stress geographically.
+---
 
-4️⃣ National Macro Risk Engine
+## 5️⃣ 30-Day National Inflation Projection
 
-Computes macroeconomic pressure indicators:
+- Aggregated national price modeling  
+- 30-day forward inflation projection  
+- Inflation pressure signal detection  
 
-📊 National Volatility Index
+📌 **Purpose:** Provide forward-looking macroeconomic outlook.
 
-🔁 Contagion Effect Index
+---
 
-📈 Multi-Commodity Pressure Index
+# 🏛 Data Source
 
-🧮 Composite Sovereign Macro Risk Score
+**Pusat Informasi Harga Pangan Strategis Nasional (PIHPS)**  
+Bank Indonesia  
 
-📌 Purpose: Translate regional instability into national systemic signals.
+### Dataset Coverage:
 
-5️⃣ 30-Day National Inflation Projection
+- 📅 Daily price data  
+- 🌍 Province-level aggregation  
+- 🏙 Kabupaten/Kota-level detail  
+- 🛒 Multi-commodity coverage  
 
-Aggregated national price modeling
+---
 
-30-day forward projection
+# 💡 Why This Matters
 
-Inflation pressure signal detection
+Food price instability is a leading indicator of:
 
-📌 Purpose: Provide forward-looking macro outlook.
+- Inflation acceleration  
+- Supply chain disruption  
+- Regional economic stress  
+- Systemic macro instability  
 
-🏛 Data Source
+This platform demonstrates how applied machine learning and macro aggregation techniques can simulate sovereign-level economic monitoring systems.
 
-Pusat Informasi Harga Pangan Strategis Nasional (PIHPS)
-Bank Indonesia
-
-Dataset includes:
-
-📅 Daily price data
-
-🌍 Province-level aggregation
-
-🏙 Kabupaten/Kota-level detail
-
-🛒 Multi-commodity coverage
+---
